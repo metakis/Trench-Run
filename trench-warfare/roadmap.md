@@ -1,0 +1,20 @@
+# Roadmap
+- [x] Fit-to-screen: dice/ship auto-sizing, pinned buttons, compact trench header
+- [x] Transitions A–G: title cards, hyperspace, fleets fly in, trench dive, round flip, gate pass whoosh, defeat scene
+- [x] Empire-wins splash with Darth Vader helmet and Death Star
+- [x] Continuous Death Star ending (no reappearing)
+- [x] Phase 2: dogfight view (A), targeted lasers (B), in-place explosions (C)
+- [x] Phase 3: trench corridor (F), cannon towers (G), targeting computer (H), gate flashes (I)
+- [x] Fleet face-off splash, longer dogfight lasers, first-person trench run (vector cannons, shaded bombing run)
+- [x] Round-title cards for Cannon round 1/2 and Bombing run
+- [x] Remove white flash after shaft; options A,B,C,D,E,G (3D dogfight, cockpit frame, unified effects, vector bombing run, camera moves, strength bars)
+- [x] Final recap: ship icons for destroyed ships instead of text
+- [x] Phase 3 after-action summary: cannon lasers hit/missed, ships survived, torpedoes hit
+- [x] Phase 3: cannons fit box, tracker with ships
+- [x] Phase 3: hide space battle round history
+- [x] End summary: richer graphics
+- [x] V2 draft: buttons press in slightly when clicked (must be requested from the V2 draft's chat)
+- [x] Explosion FX draft: shared fx.ts explosions, dogfight spin-outs, living canvas starfield
+- [x] Phase 3 vector push: busier trench, charging cannons, flak, gate structures, bombing target box/trails/scorch, canvas Death Star finale
+- [x] Cinematic synthesized sound rebuild (master bus, reverb, panning, voice limits, per-bolt sync)
+- [x] Original synthesized music score with phase cues
